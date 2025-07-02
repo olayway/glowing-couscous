@@ -1,3 +1,3 @@
 # Test
 
-[[my-first-blog-post#Test heading]]
+[[Section 19 Integral Domains#19.11 Theorem]]
