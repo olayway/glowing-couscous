@@ -54,7 +54,7 @@ Lorem ipsum
 BLA
 v
 
-## Test heading
+## 19.11 Theorem
 asdf
 
 Lorem ipsum
