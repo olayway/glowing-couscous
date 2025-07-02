@@ -8,3 +8,7 @@ authors:
 ---
 
 Your blog post content goes here...
+
+## Test heading
+
+BLA
