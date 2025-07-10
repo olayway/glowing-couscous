@@ -1,4 +1,26 @@
 {
   "showSidebar": true,
-  "favicon": "🐶"
+  "favicon": "🐶",
+  "nav": {
+    "social": [
+      {
+        "label": "mastodon",
+        "name": "GitHub Profile",
+        "href": "https://github.com/yourusername"
+      },
+      {
+        "label": "bsky",
+        "name": "Follow me on Twitter",
+        "href": "https://twitter.com/yourusername"
+      },
+      {
+        "label": "aaa",
+        "name": "Follow me on Twitter",
+        "href": "https://twitter.com/yourusername"
+      },
+      {
+        "name": "Follow me on Twitter",
+        "href": "https://twitter.com/yourusername"
+      },
+    ]
 }
