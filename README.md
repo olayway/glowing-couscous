@@ -1,5 +1,7 @@
 # Test
 
+[link](café&restaurant!)
+
 [[Section 19 Integral Domains#19.11 Theorem]]
 
 
