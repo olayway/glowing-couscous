@@ -23,5 +23,6 @@
         "href": "https://twitter.com/yourusername"
       }
     ]
-  }
+  },
+  "theme": "letterpress"
 }
