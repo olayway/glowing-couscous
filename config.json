@@ -23,5 +23,9 @@
         "href": "https://twitter.com/yourusername"
       }
     ]
+  },
+  "theme": {
+    "showVariantSwitch": true,
+    "defaultVariant": "light"
   }
 }
