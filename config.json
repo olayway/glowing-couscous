@@ -2,6 +2,7 @@
   "showSidebar": true,
   "favicon": "🐶",
   "nav": {
+    "links": [{ "name": "ABOUT", "href": "#" }],
     "social": [
       {
         "label": "mastodon",
