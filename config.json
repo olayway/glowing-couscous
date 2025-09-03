@@ -26,6 +26,6 @@
   },
   "theme": {
     "showVariantSwitch": true,
-    "defaultVariant": "light"
+    "variant": "light"
   }
 }
