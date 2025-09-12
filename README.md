@@ -1,9 +1,9 @@
 # Test AAABBBCCCDDDEEEE
 
 <div className="grid grid-cols-3">
-  ![[auroras.jpg]]
-  ![[auroras.jpg]]
-  ![[auroras.jpg]]
+  <img src="auroras.jpg"/>
+  <img src="auroras.jpg"/>
+  <img src="auroras.jpg"/>
 </div>
 
 [link](café&restaurant!)
