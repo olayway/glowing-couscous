@@ -1,6 +1,6 @@
 # Test AAABBBCCCDDDEEEE
 
-<div className="grid grid-cols-3">
+<div className="grid grid-cols-3 gap-x-2">
   <img src="auroras.jpeg"/>
   <img src="auroras.jpeg"/>
   <img src="auroras.jpeg"/>
