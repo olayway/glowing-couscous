@@ -1,9 +1,9 @@
 # Test AAABBBCCCDDDEEEE
 
 <div className="grid grid-cols-3">
-  <img src="auroras.jpg"/>
-  <img src="auroras.jpg"/>
-  <img src="auroras.jpg"/>
+  <img src="auroras.jpeg"/>
+  <img src="auroras.jpeg"/>
+  <img src="auroras.jpeg"/>
 </div>
 
 [link](café&restaurant!)
