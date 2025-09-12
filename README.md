@@ -1,5 +1,11 @@
 # Test AAABBBCCCDDDEEEE
 
+<div className="grid grid-cols-3">
+  ![[auroras.jpg]]
+  ![[auroras.jpg]]
+  ![[auroras.jpg]]
+</div>
+
 [link](café&restaurant!)
 [link](Section 19 Integral $ Domains#19.11 Theorem)
 [link](/blog/README.md)
