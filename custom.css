@@ -1,11 +1,5 @@
-.rendered-mdx h2#gallery ~ p:has(img):has(~ h2) {
+.rendered-mdx h2#gallery + p {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 0.75rem;
-}
-
-.rendered-mdx h2#gallery ~ p:has(img):has(~ h2) > img {
-  width: 100%;
-  height: auto;
-  display: block;
+  gap: 0.75rem; /* tweak as you like */
 }
