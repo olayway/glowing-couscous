@@ -1,11 +1,11 @@
 /* First block after #gallery is the gallery container (p/div/figure) */
-.rendered-mdx h2#gallery + :is(p, div, figure):has(img) {
+.rendered-mdx h2#gallery + :is(p, div):has(img) {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 0.75rem;
 }
 
-.rendered-mdx h2#gallery + :is(p, div, figure):has(img) img {
+.rendered-mdx h2#gallery + :is(p, div):has(img) img {
   width: 100%;
   height: auto;
   display: block;
