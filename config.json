@@ -22,7 +22,7 @@
     ]
   },
   "theme": {
-    "showVariantSwitch": true,
-    "variant": "light"
+    "showModeSwitch": true,
+    "defaultMode": "dark"
   }
 }
