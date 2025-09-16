@@ -22,7 +22,7 @@
     ]
   },
   "theme": {
-    "showModeSwitch": false,
+    "showModeSwitch": true,
     "defaultMode": "dark"
   }
 }
