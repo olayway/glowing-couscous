@@ -23,7 +23,6 @@
     "cta": { "name": "Sign In", "href": "https://cloud.flowershow.app/login" }
   },
   "theme": {
-    "showModeSwitch": true,
     "defaultMode": "dark"
   }
 }
