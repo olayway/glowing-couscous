@@ -16,3 +16,16 @@ Some text
 ## Another heading
 
 Some text
+
+
+## Media samples
+
+![[sample.aac]]
+
+![[sample.mp3]]
+
+![[sample.mp4]]
+
+![[sample.opus]]
+
+![[sample.webm]]
