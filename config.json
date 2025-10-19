@@ -5,7 +5,7 @@
     "links": [{ "name": "ABOUT", "href": "#" }],
     "social": [
       {
-        "label": "mastodon",
+        "label": "",
         "name": "GitHub Profile",
         "href": "https://github.com/yourusername"
       },
