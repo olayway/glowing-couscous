@@ -16,30 +16,3 @@ Some text
 ## Another heading
 
 Some text
-
-
-## Media samples
-
-WIKI LINKS
-
-![[sample.aac]]
-
-![[sample.mp3]]
-
-![[sample.mp4]]
-
-![[sample.opus]]
-
-![[sample.webm]]
-
-COMMON MARK
-
-![](sample.aac)
-
-![](sample.mp3)
-
-![](sample.mp4)
-
-![](sample.opus)
-
-![](sample.webm)
