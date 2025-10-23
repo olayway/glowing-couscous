@@ -112,3 +112,32 @@ Image embed:
 ```
 →
 ![Hiroshige art](/assets/hiroshige-2.jpg)
+
+### Obsidian Wiki-links
+
+Flowershow supports **Obsidian-style wiki-links** too.
+
+**Link by shortest-possible path:**
+```md
+[[Lorem ipsum]]
+```
+→ [[Lorem ipsum]]
+
+**Link by full path:**
+```md
+[[blog/Lorem ipsum]]
+```
+→ [[blog/Lorem ipsum]]
+
+**Use an alias:**
+```md
+[[Lorem ipsum|Alias]]
+```
+→ [[Lorem ipsum|Alias]]
+
+**Embed images with the same syntax:**
+```md
+![[hiroshige-2.jpg]]
+```
+→ 
+![[hiroshige-2.jpg]]
