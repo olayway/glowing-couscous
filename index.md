@@ -123,21 +123,3 @@ Flowershow supports **Obsidian-style wiki-links** too.
 ```
 → [[Lorem ipsum]]
 
-**Link by full path:**
-```md
-[[blog/Lorem ipsum]]
-```
-→ [[blog/Lorem ipsum]]
-
-**Use an alias:**
-```md
-[[Lorem ipsum|Alias]]
-```
-→ [[Lorem ipsum|Alias]]
-
-**Embed images with the same syntax:**
-```md
-![[hiroshige-2.jpg]]
-```
-→ 
-![[hiroshige-2.jpg]]
