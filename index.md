@@ -89,3 +89,26 @@ print(greet("Flowershow"))
 | Comic Book | 30 pages | 30 minutes |
 | Cookbook | 200 pages | 2 hours |
 
+### Blockquotes
+
+> Single line quote
+
+> Multi-line quote
+> with multiple paragraphs
+> > Nested quote
+> > > Deeper nested quote
+
+### Links & Embeds
+
+Markdown link:
+```md
+[Visit Flowershow](https://flowershow.app)
+```
+→ [Visit Flowershow](https://flowershow.app)
+
+Image embed:
+```md
+![Hiroshige art](/assets/hiroshige-2.jpg)
+```
+→
+![Hiroshige art](/assets/hiroshige-2.jpg)
