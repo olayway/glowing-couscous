@@ -25,5 +25,5 @@
   "theme": {
     "defaultMode": "light"
   },
-  "markdownRenderer": "auto"
+  "markdownRenderer": "mdx"
 }
