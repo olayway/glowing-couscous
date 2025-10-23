@@ -129,3 +129,8 @@ Flowershow supports **Obsidian-style wiki-links** too.
 ```
 → [[blog/Lorem ipsum]]
 
+**Use an alias:**
+```md
+[[Lorem ipsum|Alias]]
+```
+→ [[Lorem ipsum|Alias]]
