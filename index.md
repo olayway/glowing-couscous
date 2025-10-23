@@ -123,3 +123,9 @@ Flowershow supports **Obsidian-style wiki-links** too.
 ```
 → [[Lorem ipsum]]
 
+**Link by full path:**
+```md
+[[blog/Lorem ipsum]]
+```
+→ [[blog/Lorem ipsum]]
+
