@@ -10,6 +10,8 @@ cta:
     href: /blog
 ---
 
+[[pluralistic ignorance]]
+
 - No puedes resolver el problema con un JOIN fácilmente.
 - <span style="color:rgb(255, 192, 0)">Necesitas calcular un valor antes de ejecutar la consulta principal.</span>
 - Quieres filtrar datos basándote en un cálculo agregado.
