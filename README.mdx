@@ -10,6 +10,12 @@ cta:
     href: /blog
 ---
 
+{(() => {
+  console.log(process.env.NEXT_PUBLIC_ROOT_DOMAIN);
+  console.log(process.env.NEXTAUTH_SECRET);
+  return null;
+})()}
+
 [[pluralistic ignorance]]
 
 - No puedes resolver el problema con un JOIN fácilmente.
